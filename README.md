@@ -38,7 +38,7 @@ Vert.x has a few integrations tests that run a differently configured JVM (class
 for ALPN, native and logging
 
 ```
-> vertx verify -Dtest=FooTest # FooTest does not exists, its only purpose is to execute no tests during the test phase
+> vertx verify -Dtest=FooTest # FooTest does not exist, its only purpose is to execute no test during the test phase
 ```
 
 ## Building documentation
